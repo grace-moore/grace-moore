@@ -1,5 +1,7 @@
 # Hi, I'm Grace Moore 👋
 
+<img src="49c618ab-0b17-4bdd-9295-0e7e757b66de.jpg" width="150" />
+
 I'm a university student studying Business Analytics at the University of Iowa.
 I'm passionate about my faith in Jesus, cooking, and crossfit.
 
